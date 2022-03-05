@@ -1,4 +1,4 @@
 # Unity First Person Movement
 
 ## Here's the output so far:
-![](./demo-vid/demonstration.mp4)
+![demo-vid](./demo-vid/demonstration.mp4)
